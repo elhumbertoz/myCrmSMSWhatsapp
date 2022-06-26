@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace myCrmSMSWhatsapp
+namespace myCrmSMSWhatsapp.Models
 {
     class LoginData
     {
